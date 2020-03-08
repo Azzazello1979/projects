@@ -1,6 +1,4 @@
-***************
-* my projects *
-***************
+PROJECTS
 
 Mario Plan Project Organizer
 ----------------------------

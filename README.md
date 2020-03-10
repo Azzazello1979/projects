@@ -11,6 +11,7 @@ Mario Plan Project Organizer
 
 The Ring Emporium ( full stack webshop project ) (09/2019 – )
 -------------------------------------------------------------
+( css and looks was not the goal here, focus is on functionality ... )
   demo videos on youtube: https://www.youtube.com/playlist?list=PLQOx9Fxbguxf9BncP4GAd2oJxkJGP39y8
   code: https://github.com/Azzazello1979/webshop
   frontEnd - Angular 8

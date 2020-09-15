@@ -25,9 +25,18 @@ Reddit Clone ( full stack web project - GFA project phase ) (06/2019 – 09/2019
   code backEnd: https://github.com/Azzazello1979/ferrilata_nefrit_backEnd
   developers: 4
   participation: backEnd development ( NodeJS + ExpressJS + MongoDB Atlas & Mongoose ) 
+  
+  
+MOBILE 1st RESPONSIVE LAYOUTS
+-----------------------------
+CSS Grid for super flexible responsive layout:
+https://azzazello1979.github.io/mobile1st/grid1.html
 
+NetFlix clone responsive layout:
+https://azzazello1979.github.io/mobile1st/grid2.html
 
 VARIOUS OTHER SMALL PROJECTS
+----------------------------
 
 https://github.com/Azzazello1979/bitNinja
 Small Angular 10 app

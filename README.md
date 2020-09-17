@@ -1,16 +1,24 @@
 PROJECTS
 
-Mario Plan Project Organizer
-----------------------------
+MOBILE 1st RESPONSIVE LAYOUTS
+-----------------------------
+CSS Grid for super flexible responsive layout:
+https://azzazello1979.github.io/mobile1st/grid1.html
+
+NetFlix clone responsive layout:
+https://azzazello1979.github.io/mobile1st/grid2.html
+
+
+Mario Plan Project Organizer - ReactJS + Redux
+--------------------------------------------
   online: https://marioplan-678df.firebaseapp.com/signin
   code: https://github.com/Azzazello1979/marioPlan
   frontEnd - ReactJS, Redux, materializeCSS
   backEnd - FireBase, FireStore, CloudFunctions
-  developers: alone
   participation: frontEnd + backEnd
 
-The Ring Emporium ( full stack webshop project ) (09/2019 – )
--------------------------------------------------------------
+The Ring Emporium ( full stack webshop project ) Angular 8 + NodeJS + MySQL
+---------------------------------------------------------------------------
 ( css and looks was not the goal here, focus is on functionality ... )
   demo videos on youtube: https://www.youtube.com/playlist?list=PLQOx9Fxbguxf9BncP4GAd2oJxkJGP39y8
   code: https://github.com/Azzazello1979/webshop
@@ -27,13 +35,6 @@ Reddit Clone ( full stack web project - GFA project phase ) (06/2019 – 09/2019
   participation: backEnd development ( NodeJS + ExpressJS + MongoDB Atlas & Mongoose ) 
   
   
-MOBILE 1st RESPONSIVE LAYOUTS
------------------------------
-CSS Grid for super flexible responsive layout:
-https://azzazello1979.github.io/mobile1st/grid1.html
-
-NetFlix clone responsive layout:
-https://azzazello1979.github.io/mobile1st/grid2.html
 
 VARIOUS OTHER SMALL PROJECTS
 ----------------------------

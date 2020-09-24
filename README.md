@@ -19,6 +19,7 @@ Mario Plan Project Organizer - ReactJS + Redux
 
 The Ring Emporium ( full stack webshop project ) Angular 8 + NodeJS + MySQL
 ---------------------------------------------------------------------------
+Instagram: https://www.instagram.com/theringemporium/
 ( css and looks was not the goal here, focus is on functionality ... )
   demo videos on youtube: https://www.youtube.com/playlist?list=PLQOx9Fxbguxf9BncP4GAd2oJxkJGP39y8
   code: https://github.com/Azzazello1979/webshop

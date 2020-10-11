@@ -11,7 +11,7 @@ https://azzazello1979.github.io/mobile1st/grid2.html
 
 CURRENT: Webshop Project (Angular 10, NodeJS, MySQL)
 ----------------------------------------------------
-youtube: https://www.youtube.com/watch?v=DKJFIAcRrvU&list=PLQOx9Fxbguxf9BncP4GAd2oJxkJGP39y8&index=1
+youtube: https://www.youtube.com/watch?v=RCRFQTR8m4s&list=PLQOx9FxbguxczJmWm2VMyndn7tqgkKvkH
 https://github.com/Azzazello1979/wsp
 
 

@@ -12,7 +12,7 @@ https://azzazello1979.github.io/mobile1st/grid2.html
 CURRENT: Webshop Project (Angular 10, NodeJS, MySQL)
 ----------------------------------------------------
 youtube: https://www.youtube.com/watch?v=RCRFQTR8m4s&list=PLQOx9FxbguxczJmWm2VMyndn7tqgkKvkH
-https://github.com/Azzazello1979/wsp
+source code: https://github.com/Azzazello1979/wsp
 
 
 Mario Plan Project Organizer - ReactJS + Redux

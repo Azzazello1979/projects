@@ -4,7 +4,7 @@ PROJECTS
 CURRENT >>> Webshop Project (Angular 10, NodeJS, MySQL)
 -------------------------------------------------------
 FullStack Angular/NodeJS/MySQL webshop, watch promo video:
-youtube: https://www.youtube.com/watch?v=RCRFQTR8m4s&list=PLQOx9FxbguxczJmWm2VMyndn7tqgkKvkH
+youtube: https://www.youtube.com/watch?v=GRKt1i9mhYE&list=PLQOx9FxbguxczJmWm2VMyndn7tqgkKvkH
 source code: https://github.com/Azzazello1979/wsp
 
 

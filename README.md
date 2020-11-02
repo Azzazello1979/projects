@@ -24,3 +24,8 @@ Reddit Clone ( full stack web project - GFA project phase ) (06/2019 – 09/2019
   developers: 4
   participation: backEnd development ( NodeJS + ExpressJS + MongoDB Atlas & Mongoose ) 
   
+  
+FootBall Informer (football web app lets you check match results of different leagues) - (Angular 10)
+-----------------------------------------------------------------------------------------------------
+https://github.com/Azzazello1979/sport-informer
+

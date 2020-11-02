@@ -1,5 +1,11 @@
 PROJECTS
 
+Watch Some Videos of Projects:
+------------------------------
+https://www.youtube.com/watch?v=GRKt1i9mhYE&list=PLQOx9FxbguxczJmWm2VMyndn7tqgkKvkH
+https://www.youtube.com/watch?v=aVjnuAxClnM&feature=youtu.be
+
+
 
 CURRENT >>> Webshop Project (Angular 10, NodeJS, MySQL)
 -------------------------------------------------------
@@ -27,5 +33,6 @@ Reddit Clone ( full stack web project - GFA project phase ) (06/2019 – 09/2019
   
 FootBall Informer (football web app lets you check match results of different leagues) - (Angular 10)
 -----------------------------------------------------------------------------------------------------
-https://github.com/Azzazello1979/sport-informer
+source-code: https://github.com/Azzazello1979/sport-informer
+YouTube: https://www.youtube.com/watch?v=aVjnuAxClnM&feature=youtu.be
 

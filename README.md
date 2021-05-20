@@ -1,9 +1,10 @@
 pet Projects
 
-Jira Clone - ProjectManager (VueJS2, Vuex, Vuetify)
----------------------------------------------------
+Jira Clone - ProjectManager (VueJS2, Vuex, Vuetify, Cloud FireStore)
+---------------------------------------------------------------------
 frontEnd: VueJS2, Vuex, Vuetify.
-A light-weight clone of Jira. frontEnd only.
+backEnd: Cloud FireStore
+A light-weight clone of Jira.
 youtube: https://youtu.be/NHGTZ4QUboQ
 source code: https://github.com/Azzazello1979/ProjectManager
 

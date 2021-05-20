@@ -4,7 +4,7 @@ Jira Clone - ProjectManager (VueJS2, Vuex, Vuetify)
 ---------------------------------------------------
 frontEnd: VueJS2, Vuex, Vuetify.
 A light-weight clone of Jira. frontEnd only.
-youtube: https://www.youtube.com/watch?v=eifmjrCQzSw
+youtube: https://youtu.be/NHGTZ4QUboQ
 source code: https://github.com/Azzazello1979/ProjectManager
 
 Webshop Project (Angular 10, NodeJS, MySQL)
